@@ -1,5 +1,5 @@
 # Open source software used in Gully Cricket Scorer
-Dated: 14-Oct-2024
+Dated: 23-Dec-2024
 ## ansicolor
 ### Version
 2.0.3
@@ -56,11 +56,6 @@ Dated: 14-Oct-2024
 1.18.0
 ### Link
 [https://github.com/dart-lang/collection](https://github.com/dart-lang/collection)
-## Courgette
-### Version
-
-### Link
-[https://fonts.google.com/specimen/Courgette/license](https://fonts.google.com/specimen/Courgette/license)
 ## cross_file
 ### Version
 0.3.4+2
@@ -84,7 +79,7 @@ Dated: 14-Oct-2024
 [https://github.com/espresso3389/flutter_oss_licenses/tree/master/packages/dart_pubspec_licenses](https://github.com/espresso3389/flutter_oss_licenses/tree/master/packages/dart_pubspec_licenses)
 ## device_info_plus
 ### Version
-10.1.2
+11.1.1
 ### Link
 [https://github.com/fluttercommunity/plus_plugins/tree/main/packages/device_info_plus/device_info_plus](https://github.com/fluttercommunity/plus_plugins/tree/main/packages/device_info_plus/device_info_plus)
 [https://github.com/fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
@@ -123,7 +118,7 @@ Dated: 14-Oct-2024
 [https://github.com/miguelpruivo/plugins_flutter_file_picker](https://github.com/miguelpruivo/plugins_flutter_file_picker)
 ## flutter
 ### Version
-3.24.0
+3.24.3
 ### Link
 [https://flutter.dev](https://flutter.dev)
 ## flutter_bloc
@@ -169,6 +164,16 @@ Dated: 14-Oct-2024
 0.15.4
 ### Link
 [https://github.com/dart-lang/html](https://github.com/dart-lang/html)
+## http
+### Version
+1.2.2
+### Link
+[https://github.com/dart-lang/http/tree/master/pkgs/http](https://github.com/dart-lang/http/tree/master/pkgs/http)
+## http_parser
+### Version
+4.0.2
+### Link
+[https://github.com/dart-lang/http_parser](https://github.com/dart-lang/http_parser)
 ## image
 ### Version
 4.2.0
@@ -224,6 +229,18 @@ Dated: 14-Oct-2024
 1.0.0
 ### Link
 [https://github.com/rrousselGit/nested](https://github.com/rrousselGit/nested)
+## package_info_plus
+### Version
+8.1.1
+### Link
+[https://github.com/fluttercommunity/plus_plugins/tree/main/packages/package_info_plus/package_info_plus](https://github.com/fluttercommunity/plus_plugins/tree/main/packages/package_info_plus/package_info_plus)
+[https://github.com/fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
+## package_info_plus_platform_interface
+### Version
+3.0.1
+### Link
+[https://github.com/fluttercommunity/plus_plugins/tree/main/packages/](https://github.com/fluttercommunity/plus_plugins/tree/main/packages/)
+[https://github.com/fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
 ## path
 ### Version
 1.9.0
@@ -453,12 +470,12 @@ Dated: 14-Oct-2024
 [https://github.com/benjamindean/flutter_vibration](https://github.com/benjamindean/flutter_vibration)
 ## vibration_platform_interface
 ### Version
-0.0.1
+0.0.2
 ### Link
 [https://github.com/benjamindean/flutter_vibration](https://github.com/benjamindean/flutter_vibration)
 ## vm_service
 ### Version
-14.2.4
+14.2.5
 ### Link
 [https://github.com/dart-lang/sdk/tree/main/pkg/vm_service](https://github.com/dart-lang/sdk/tree/main/pkg/vm_service)
 ## web
