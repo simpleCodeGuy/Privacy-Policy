@@ -1,5 +1,5 @@
 # Open source software used in Gully Cricket Scorer
-Dated: 23-Dec-2024
+Dated: 13-Jan-2025
 ## ansicolor
 ### Version
 2.0.3
@@ -7,14 +7,14 @@ Dated: 23-Dec-2024
 [https://github.com/google/ansicolor-dart](https://github.com/google/ansicolor-dart)
 ## archive
 ### Version
-3.6.1
+4.0.2
 ### Link
 [https://github.com/brendan-duncan/archive](https://github.com/brendan-duncan/archive)
 ## args
 ### Version
-2.5.0
+2.6.0
 ### Link
-[https://github.com/dart-lang/args](https://github.com/dart-lang/args)
+[https://github.com/dart-lang/core/main/pkgs/args](https://github.com/dart-lang/core/main/pkgs/args)
 ## async
 ### Version
 2.11.0
@@ -43,9 +43,9 @@ Dated: 23-Dec-2024
 [https://github.com/google/json_serializable.dart/tree/master/checked_yaml](https://github.com/google/json_serializable.dart/tree/master/checked_yaml)
 ## cli_util
 ### Version
-0.4.1
+0.4.2
 ### Link
-[https://github.com/dart-lang/cli_util](https://github.com/dart-lang/cli_util)
+[https://github.com/dart-lang/tools/tree/main/pkgs/cli_util](https://github.com/dart-lang/tools/tree/main/pkgs/cli_util)
 ## clock
 ### Version
 1.1.1
@@ -53,7 +53,7 @@ Dated: 23-Dec-2024
 [https://github.com/dart-lang/clock](https://github.com/dart-lang/clock)
 ## collection
 ### Version
-1.18.0
+1.19.0
 ### Link
 [https://github.com/dart-lang/collection](https://github.com/dart-lang/collection)
 ## cross_file
@@ -63,35 +63,51 @@ Dated: 23-Dec-2024
 [https://github.com/flutter/packages/tree/main/packages/cross_file](https://github.com/flutter/packages/tree/main/packages/cross_file)
 ## crypto
 ### Version
-3.0.5
+3.0.6
 ### Link
-[https://github.com/dart-lang/crypto](https://github.com/dart-lang/crypto)
+[https://github.com/dart-lang/core/tree/main/pkgs/crypto](https://github.com/dart-lang/core/tree/main/pkgs/crypto)
 ## csslib
 ### Version
-1.0.0
+1.0.2
 ### Link
-[https://github.com/dart-lang/csslib](https://github.com/dart-lang/csslib)
+[https://github.com/dart-lang/tools/tree/main/pkgs/csslib](https://github.com/dart-lang/tools/tree/main/pkgs/csslib)
 ## dart_pubspec_licenses
 ### Version
-3.0.1
+3.0.4
 ### Link
 [https://github.com/espresso3389/flutter_oss_licenses](https://github.com/espresso3389/flutter_oss_licenses)
 [https://github.com/espresso3389/flutter_oss_licenses/tree/master/packages/dart_pubspec_licenses](https://github.com/espresso3389/flutter_oss_licenses/tree/master/packages/dart_pubspec_licenses)
+## dartx
+### Version
+1.2.0
+### Link
+[https://github.com/leisim/dartx](https://github.com/leisim/dartx)
 ## device_info_plus
 ### Version
-11.1.1
+11.2.0
 ### Link
 [https://github.com/fluttercommunity/plus_plugins/tree/main/packages/device_info_plus/device_info_plus](https://github.com/fluttercommunity/plus_plugins/tree/main/packages/device_info_plus/device_info_plus)
 [https://github.com/fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
 ## device_info_plus_platform_interface
 ### Version
-7.0.1
+7.0.2
 ### Link
 [https://github.com/fluttercommunity/plus_plugins/tree/main/packages/](https://github.com/fluttercommunity/plus_plugins/tree/main/packages/)
 [https://github.com/fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
+## diacritic
+### Version
+0.1.6
+### Link
+[https://github.com/agilord/diacritic](https://github.com/agilord/diacritic)
+## downloadsfolder
+### Version
+1.2.0
+### Link
+[https://github.com/UnluckyY1/flutter_downloads_folder](https://github.com/UnluckyY1/flutter_downloads_folder)
+[https://github.com/UnluckyY1](https://github.com/UnluckyY1)
 ## equatable
 ### Version
-2.0.5
+2.0.7
 ### Link
 [https://github.com/felangel/equatable](https://github.com/felangel/equatable)
 [https://github.com/felangel/equatable](https://github.com/felangel/equatable)
@@ -107,18 +123,18 @@ Dated: 23-Dec-2024
 [https://github.com/dart-lang/native/tree/main/pkgs/ffi](https://github.com/dart-lang/native/tree/main/pkgs/ffi)
 ## file
 ### Version
-7.0.0
+7.0.1
 ### Link
-[https://github.com/google/file.dart/tree/master/packages/file](https://github.com/google/file.dart/tree/master/packages/file)
+[https://github.com/dart-lang/tools/tree/main/pkgs/file](https://github.com/dart-lang/tools/tree/main/pkgs/file)
 ## file_picker
 ### Version
-8.1.2
+8.1.7
 ### Link
 [https://github.com/miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker)
 [https://github.com/miguelpruivo/plugins_flutter_file_picker](https://github.com/miguelpruivo/plugins_flutter_file_picker)
 ## flutter
 ### Version
-3.24.3
+3.27.1
 ### Link
 [https://flutter.dev](https://flutter.dev)
 ## flutter_bloc
@@ -129,7 +145,7 @@ Dated: 23-Dec-2024
 [https://bloclibrary.dev](https://bloclibrary.dev)
 ## flutter_launcher_icons
 ### Version
-0.14.1
+0.14.2
 ### Link
 [https://github.com/fluttercommunity/flutter_launcher_icons/](https://github.com/fluttercommunity/flutter_launcher_icons/)
 [https://github.com/fluttercommunity/flutter_launcher_icons](https://github.com/fluttercommunity/flutter_launcher_icons)
@@ -140,30 +156,25 @@ Dated: 23-Dec-2024
 [https://github.com/flutter/packages/tree/main/packages/flutter_lints](https://github.com/flutter/packages/tree/main/packages/flutter_lints)
 ## flutter_native_splash
 ### Version
-2.4.1
+2.4.4
 ### Link
 [https://github.com/jonbhanson/flutter_native_splash](https://github.com/jonbhanson/flutter_native_splash)
 ## flutter_oss_licenses
 ### Version
-3.0.2
+3.0.4
 ### Link
 [https://github.com/espresso3389/flutter_oss_licenses](https://github.com/espresso3389/flutter_oss_licenses)
 [https://github.com/espresso3389/flutter_oss_licenses/tree/master/packages/flutter_oss_licenses](https://github.com/espresso3389/flutter_oss_licenses/tree/master/packages/flutter_oss_licenses)
 ## flutter_plugin_android_lifecycle
 ### Version
-2.0.23
+2.0.24
 ### Link
 [https://github.com/flutter/packages/tree/main/packages/flutter_plugin_android_lifecycle](https://github.com/flutter/packages/tree/main/packages/flutter_plugin_android_lifecycle)
-## flutter_speed_dial
-### Version
-7.0.0
-### Link
-[https://github.com/darioielardi/flutter_speed_dial/](https://github.com/darioielardi/flutter_speed_dial/)
 ## html
 ### Version
-0.15.4
+0.15.5
 ### Link
-[https://github.com/dart-lang/html](https://github.com/dart-lang/html)
+[https://github.com/dart-lang/tools/tree/main/pkgs/html](https://github.com/dart-lang/tools/tree/main/pkgs/html)
 ## http
 ### Version
 1.2.2
@@ -171,12 +182,12 @@ Dated: 23-Dec-2024
 [https://github.com/dart-lang/http/tree/master/pkgs/http](https://github.com/dart-lang/http/tree/master/pkgs/http)
 ## http_parser
 ### Version
-4.0.2
+4.1.2
 ### Link
-[https://github.com/dart-lang/http_parser](https://github.com/dart-lang/http_parser)
+[https://github.com/dart-lang/http/tree/master/pkgs/http_parser](https://github.com/dart-lang/http/tree/master/pkgs/http_parser)
 ## image
 ### Version
-4.2.0
+4.5.2
 ### Link
 [https://github.com/brendan-duncan/image](https://github.com/brendan-duncan/image)
 ## json_annotation
@@ -186,12 +197,12 @@ Dated: 23-Dec-2024
 [https://github.com/google/json_serializable.dart/tree/master/json_annotation](https://github.com/google/json_serializable.dart/tree/master/json_annotation)
 ## leak_tracker
 ### Version
-10.0.5
+10.0.7
 ### Link
 [https://github.com/dart-lang/leak_tracker/tree/main/pkgs/leak_tracker](https://github.com/dart-lang/leak_tracker/tree/main/pkgs/leak_tracker)
 ## leak_tracker_flutter_testing
 ### Version
-3.0.5
+3.0.8
 ### Link
 [https://github.com/dart-lang/leak_tracker/tree/main/pkgs/leak_tracker_flutter_testing](https://github.com/dart-lang/leak_tracker/tree/main/pkgs/leak_tracker_flutter_testing)
 ## leak_tracker_testing
@@ -206,7 +217,7 @@ Dated: 23-Dec-2024
 [https://github.com/dart-lang/lints](https://github.com/dart-lang/lints)
 ## logger
 ### Version
-2.4.0
+2.5.0
 ### Link
 [https://github.com/SourceHorizon/logger](https://github.com/SourceHorizon/logger)
 ## matcher
@@ -231,13 +242,13 @@ Dated: 23-Dec-2024
 [https://github.com/rrousselGit/nested](https://github.com/rrousselGit/nested)
 ## package_info_plus
 ### Version
-8.1.1
+8.1.2
 ### Link
 [https://github.com/fluttercommunity/plus_plugins/tree/main/packages/package_info_plus/package_info_plus](https://github.com/fluttercommunity/plus_plugins/tree/main/packages/package_info_plus/package_info_plus)
 [https://github.com/fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
 ## package_info_plus_platform_interface
 ### Version
-3.0.1
+3.0.2
 ### Link
 [https://github.com/fluttercommunity/plus_plugins/tree/main/packages/](https://github.com/fluttercommunity/plus_plugins/tree/main/packages/)
 [https://github.com/fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
@@ -246,6 +257,21 @@ Dated: 23-Dec-2024
 1.9.0
 ### Link
 [https://github.com/dart-lang/path](https://github.com/dart-lang/path)
+## path_provider
+### Version
+2.1.5
+### Link
+[https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider](https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider)
+## path_provider_android
+### Version
+2.2.15
+### Link
+[https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider_android](https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider_android)
+## path_provider_foundation
+### Version
+2.4.1
+### Link
+[https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider_foundation](https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider_foundation)
 ## path_provider_linux
 ### Version
 2.2.1
@@ -261,31 +287,6 @@ Dated: 23-Dec-2024
 2.3.0
 ### Link
 [https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider_windows](https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider_windows)
-## permission_handler
-### Version
-10.4.5
-### Link
-[https://github.com/baseflow/flutter-permission-handler](https://github.com/baseflow/flutter-permission-handler)
-## permission_handler_android
-### Version
-10.3.6
-### Link
-[https://github.com/baseflow/flutter-permission-handler](https://github.com/baseflow/flutter-permission-handler)
-## permission_handler_apple
-### Version
-9.1.4
-### Link
-[https://github.com/baseflow/flutter-permission-handler](https://github.com/baseflow/flutter-permission-handler)
-## permission_handler_platform_interface
-### Version
-3.12.0
-### Link
-[https://github.com/baseflow/flutter-permission-handler/tree/master/permission_handler_platform_interface](https://github.com/baseflow/flutter-permission-handler/tree/master/permission_handler_platform_interface)
-## permission_handler_windows
-### Version
-0.1.3
-### Link
-[https://github.com/baseflow/flutter-permission-handler](https://github.com/baseflow/flutter-permission-handler)
 ## petitparser
 ### Version
 6.0.2
@@ -294,14 +295,19 @@ Dated: 23-Dec-2024
 [https://petitparser.github.io](https://petitparser.github.io)
 ## platform
 ### Version
-3.1.5
+3.1.6
 ### Link
-[https://github.com/dart-lang/platform](https://github.com/dart-lang/platform)
+[https://github.com/dart-lang/core/tree/main/pkgs/platform](https://github.com/dart-lang/core/tree/main/pkgs/platform)
 ## plugin_platform_interface
 ### Version
 2.1.8
 ### Link
 [https://github.com/flutter/packages/tree/main/packages/plugin_platform_interface](https://github.com/flutter/packages/tree/main/packages/plugin_platform_interface)
+## posix
+### Version
+6.0.1
+### Link
+[https://github.com/onepub-dev/dart_posix](https://github.com/onepub-dev/dart_posix)
 ## provider
 ### Version
 6.1.2
@@ -317,30 +323,24 @@ Dated: 23-Dec-2024
 
 ### Link
 [https://fonts.google.com/specimen/Roboto+Mono/license](https://fonts.google.com/specimen/Roboto+Mono/license)
-## saf
-### Version
-1.0.3+4
-### Link
-[https://github.com/ivehement/saf](https://github.com/ivehement/saf)
-[https://github.com/ivehement/saf](https://github.com/ivehement/saf)
 ## send_to_background
 ### Version
-0.0.4
+0.0.5
 ### Link
 [https://github.com/cruvie/send_to_background](https://github.com/cruvie/send_to_background)
 ## shared_preferences
 ### Version
-2.3.2
+2.3.5
 ### Link
 [https://github.com/flutter/packages/tree/main/packages/shared_preferences/shared_preferences](https://github.com/flutter/packages/tree/main/packages/shared_preferences/shared_preferences)
 ## shared_preferences_android
 ### Version
-2.3.3
+2.4.1
 ### Link
 [https://github.com/flutter/packages/tree/main/packages/shared_preferences/shared_preferences_android](https://github.com/flutter/packages/tree/main/packages/shared_preferences/shared_preferences_android)
 ## shared_preferences_foundation
 ### Version
-2.5.3
+2.5.4
 ### Link
 [https://github.com/flutter/packages/tree/main/packages/shared_preferences/shared_preferences_foundation](https://github.com/flutter/packages/tree/main/packages/shared_preferences/shared_preferences_foundation)
 ## shared_preferences_linux
@@ -370,17 +370,32 @@ Dated: 23-Dec-2024
 [https://github.com/dart-lang/source_span](https://github.com/dart-lang/source_span)
 ## sqflite
 ### Version
-2.3.3+2
+2.4.1
 ### Link
 [https://github.com/tekartik/sqflite/tree/master/sqflite](https://github.com/tekartik/sqflite/tree/master/sqflite)
+## sqflite_android
+### Version
+2.4.0
+### Link
+[https://github.com/tekartik/sqflite/tree/master/sqflite_android](https://github.com/tekartik/sqflite/tree/master/sqflite_android)
 ## sqflite_common
 ### Version
-2.5.4+4
+2.5.4+6
 ### Link
 [https://github.com/tekartik/sqflite/tree/master/sqflite_common](https://github.com/tekartik/sqflite/tree/master/sqflite_common)
+## sqflite_darwin
+### Version
+2.4.1+1
+### Link
+[https://github.com/tekartik/sqflite/tree/master/sqflite_darwin](https://github.com/tekartik/sqflite/tree/master/sqflite_darwin)
+## sqflite_platform_interface
+### Version
+2.4.0
+### Link
+[https://github.com/tekartik/sqflite/tree/master/sqflite_platform_interface](https://github.com/tekartik/sqflite/tree/master/sqflite_platform_interface)
 ## stack_trace
 ### Version
-1.11.1
+1.12.0
 ### Link
 [https://github.com/dart-lang/stack_trace](https://github.com/dart-lang/stack_trace)
 ## stream_channel
@@ -390,7 +405,7 @@ Dated: 23-Dec-2024
 [https://github.com/dart-lang/stream_channel](https://github.com/dart-lang/stream_channel)
 ## string_scanner
 ### Version
-1.2.0
+1.3.0
 ### Link
 [https://github.com/dart-lang/string_scanner](https://github.com/dart-lang/string_scanner)
 ## synchronized
@@ -405,14 +420,19 @@ Dated: 23-Dec-2024
 [https://github.com/dart-lang/term_glyph](https://github.com/dart-lang/term_glyph)
 ## test_api
 ### Version
-0.7.2
+0.7.3
 ### Link
 [https://github.com/dart-lang/test/tree/master/pkgs/test_api](https://github.com/dart-lang/test/tree/master/pkgs/test_api)
+## time
+### Version
+2.1.5
+### Link
+[https://github.com/jogboms/time.dart](https://github.com/jogboms/time.dart)
 ## typed_data
 ### Version
-1.3.2
+1.4.0
 ### Link
-[https://github.com/dart-lang/typed_data](https://github.com/dart-lang/typed_data)
+[https://github.com/dart-lang/core/tree/main/pkgs/typed_data](https://github.com/dart-lang/core/tree/main/pkgs/typed_data)
 ## universal_io
 ### Version
 2.2.2
@@ -425,22 +445,22 @@ Dated: 23-Dec-2024
 [https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher](https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher)
 ## url_launcher_android
 ### Version
-6.3.12
+6.3.14
 ### Link
 [https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_android](https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_android)
 ## url_launcher_ios
 ### Version
-6.3.1
+6.3.2
 ### Link
 [https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_ios](https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_ios)
 ## url_launcher_linux
 ### Version
-3.2.0
+3.2.1
 ### Link
 [https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_linux](https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_linux)
 ## url_launcher_macos
 ### Version
-3.2.1
+3.2.2
 ### Link
 [https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_macos](https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_macos)
 ## url_launcher_platform_interface
@@ -450,12 +470,12 @@ Dated: 23-Dec-2024
 [https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_platform_interface](https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_platform_interface)
 ## url_launcher_web
 ### Version
-2.3.3
+2.4.0
 ### Link
 [https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_web](https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_web)
 ## url_launcher_windows
 ### Version
-3.1.2
+3.1.4
 ### Link
 [https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_windows](https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_windows)
 ## vector_math
@@ -465,7 +485,7 @@ Dated: 23-Dec-2024
 [https://github.com/google/vector_math.dart](https://github.com/google/vector_math.dart)
 ## vibration
 ### Version
-2.0.0
+2.0.1
 ### Link
 [https://github.com/benjamindean/flutter_vibration](https://github.com/benjamindean/flutter_vibration)
 ## vibration_platform_interface
@@ -475,7 +495,7 @@ Dated: 23-Dec-2024
 [https://github.com/benjamindean/flutter_vibration](https://github.com/benjamindean/flutter_vibration)
 ## vm_service
 ### Version
-14.2.5
+14.3.0
 ### Link
 [https://github.com/dart-lang/sdk/tree/main/pkg/vm_service](https://github.com/dart-lang/sdk/tree/main/pkg/vm_service)
 ## web
@@ -485,7 +505,7 @@ Dated: 23-Dec-2024
 [https://github.com/dart-lang/web](https://github.com/dart-lang/web)
 ## win32
 ### Version
-5.5.5
+5.10.0
 ### Link
 [https://github.com/halildurmus/win32](https://github.com/halildurmus/win32)
 [https://win32.pub](https://win32.pub)
@@ -506,6 +526,6 @@ Dated: 23-Dec-2024
 [https://github.com/renggli/dart-xml](https://github.com/renggli/dart-xml)
 ## yaml
 ### Version
-3.1.2
+3.1.3
 ### Link
-[https://github.com/dart-lang/yaml](https://github.com/dart-lang/yaml)
+[https://github.com/dart-lang/tools/tree/main/pkgs/yaml](https://github.com/dart-lang/tools/tree/main/pkgs/yaml)
